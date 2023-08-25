@@ -1,6 +1,7 @@
 # Notebook Application
 
-![Teclado Text Editor]()
+![8-zQhORLMYZ6fOz4P](https://github.com/Meko6701/Gui-Development/assets/126201353/a0a34a10-0801-4978-8254-308a23b553c7)
+
 
 ## Description
 The Teclado Text Editor is a simple and user-friendly notebook application developed using Python and the Tkinter library. This project was undertaken as a personal challenge to enhance programming and GUI development skills.
